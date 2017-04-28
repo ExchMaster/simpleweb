@@ -1,0 +1,5 @@
+web:
+  image: "exchmaster/simpleweb"
+  ports:
+    - "80:80"
+  restart: "always"
