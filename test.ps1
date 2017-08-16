@@ -1,0 +1,1 @@
+Get-Process | Export-Csv -Path C:\process.csv
